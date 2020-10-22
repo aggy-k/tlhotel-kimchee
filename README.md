@@ -1,5 +1,10 @@
 # tlhotel-loyalty
 
+This project uses axios. Install axios:
+```
+npm install axios
+```
+
 ## Project setup
 ```
 npm install
